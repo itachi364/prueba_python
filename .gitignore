@@ -1,0 +1,23 @@
+# Entorno Virtual
+venv/
+*.egg-info/
+*.egg
+
+# Archivos de Configuración de Entorno
+.env
+
+# Archivos de Configuración de IDE
+.vscode/
+.idea/
+
+# Archivos de Compilación
+*.pyc
+__pycache__/
+
+# Archivos de Pruebas
+tests/
+*.test.py
+
+# Archivos de Debug
+*.log
+*.pdb
